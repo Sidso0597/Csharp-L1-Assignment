@@ -1,2 +1,2 @@
 # Csharp-L1-Assignment
-Wipro C# L1-Assignment
+C# L1-Assignment
